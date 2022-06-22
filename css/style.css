@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+:root{
+	--color-titulos:#2750d0;
+	--color-contenido:#333;
+	--color-naranja:#ff9f06;
+	--color-azul:#2750d0;
+	--fondo-footer:#091f5b;
+}
+
+h2{
+	color: #2750d0;
+}
+
+p{
+	color: #333
+}
+
+header{
+	background-color: #fff;
+}
+
+
+#services{
+  text-align: center;
+}
+
+#welcome{
+  text-align: center;
+}
+
+.bold{
+ font-weight: 700;
+}
+
+.italic{
+ font-style: italic;
+}
+
+.info-welcome{
+	text-align: left;
+}
+
+#gallery{
+  text-align: center;
+	background-color: #2750d0;
+}
+
+#gallery h2{
+  color: #ff930f;
+}
+
+#gallery p{
+  color: #fff;
+}
+
+#clients{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+footer{
+	background-color: var(--fondo-footer);
+	color: #acbad4;
+	padding: 30px 0;
+	text-align: center;
+	font-size: 13px;
+}
+
+footer p{
+	color: #fff;
+	
+}
